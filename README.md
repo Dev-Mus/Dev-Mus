@@ -2,7 +2,7 @@
 <h3 align="center">Full stack developer from Algeria</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dev-Mus&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-Mus" />
-		   <img src="https://badges.pufler.dev/repos/Dev-Mus" alt="Dev-Mus" />
+<!-- 		   <img src="https://badges.pufler.dev/repos/Dev-Mus" alt="Dev-Mus" /> -->
 		   <img src="https://img.shields.io/github/followers/Dev-Mus?label=Followers" alt="Dev-Mus" />
 </p>
 
@@ -20,7 +20,7 @@
 <p align="center">
 	<a href="mailto:m.ouali.contact@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Dev-Mus"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ouali-mustapha"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/oualimustapha"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://leetcode.com/Dev-Mus"><img src="https://img.shields.io/badge/-leetcode-orange" alt="LeetCode"/></a>
 </p>
 
@@ -35,8 +35,8 @@
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Manar Shahin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dev-Mus&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
+<!-- <br/> -->
+<!--   &nbsp; -->
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Mus&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Manar Shahin" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -46,7 +46,11 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Dev-Mus"><img alt="Manar Shahin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dev-Mus&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
+<!-- [![Mustapha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dev-Mus&bg_color=2d2a2b&color=4dbd2e&line=30932f&point=19a335&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ -->
+ 
+  [![Mustapha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dev-Mus&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--    <a href="https://github.com/Dev-Mus"><img alt="Manar Shahin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dev-Mus&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a> -->
   <br/>
 
 <br/>
