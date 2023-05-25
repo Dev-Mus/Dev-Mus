@@ -49,7 +49,7 @@
 <!-- [![Mustapha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dev-Mus&bg_color=2d2a2b&color=4dbd2e&line=30932f&point=19a335&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
  
-  [![Mustapha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dev-Mus&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Mustapha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Mus&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--    <a href="https://github.com/Dev-Mus"><img alt="Manar Shahin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dev-Mus&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a> -->
   <br/>
 
