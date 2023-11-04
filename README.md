@@ -8,7 +8,7 @@
 
 - 🌱 I’m a Javascript Developer from Algeria.
 - :school: I have a `master's degree in computer science` from the Faculty of Science at University M'hamed Bougara Boumerdes (UMBB).
-- 🔭 I’m currently working on [legal-doctrine](https://legal-doctrine.com/) as lead backend developer.
+- 🔭 I’m currently working on [legal-doctrine](https://legal-doctrine.com/) as Lead Backend Engineer.
 - 👯 I’m open to collaborate on any `offer/project`.
 - :thinking: I’m currently open for: new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1bQs9iVj66UbxwwOdcOoD9-b4LzSqGZFp/view?usp=drive_link).
 - 📫 How to reach me **m.ouali.contact@gmail.com**.
